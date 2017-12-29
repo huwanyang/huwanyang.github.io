@@ -38,13 +38,13 @@
   </entry>
   
   <entry>
-    <title>这是我的第一篇个人博客</title>
+    <title>这是第一篇个人博客</title>
     <link href="https://huwanyang.github.io/2017/12/28/my-first-blog/"/>
     <id>https://huwanyang.github.io/2017/12/28/my-first-blog/</id>
     <published>2017-12-28T00:00:00.000Z</published>
-    <updated>2017-12-29T02:06:34.000Z</updated>
+    <updated>2017-12-29T09:48:59.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h2><p>Welcome to My Blog. This is <a href="http://localhost:4000/2017/12/28/my-first-blog/" target="_blank" rel="noopener">my first blog</a>. So I want to say happy new year to all.</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">'This is my first bolg.'</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h2><p>Welcome to My Blog. This is <a href="https://huwanyang.github.io/2017/12/28/my-first-blog/">my first blog</a>. So I want to say something.</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">"Happy New Year!"</span></span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
